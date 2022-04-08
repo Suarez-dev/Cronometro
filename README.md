@@ -2,4 +2,4 @@
 
 Practicando javascript
 
-https://xein-dev.github.io/Cronometro/
+https://Suarez-dev.github.io/Cronometro/
